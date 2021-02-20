@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Ziheng Lu"
 title_separator          : "-"
 name                     : &name "Ziheng Lu"
-description              : &description "Post-Doctoral Research Associate at University of Cambridge"
+description              : &description "PDRA @ University of Cambridge"
 url                      : https://luzihen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "luzihen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ziheng Lu"
   avatar           : "profile.png"
-  bio              : "Post-doc at University of Cambridge"
+  bio              : "Postdoctoral Research Associate at University of Cambridge"
   location         : "UK"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rnqpfkkAAAAJ&hl=en"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/luzihen"
+  github           : "luzihen"
   google_plus      :
   keybase          :
   instagram        :
